@@ -1,0 +1,1 @@
+You've done a great job with this refactor, the only issue I have is the complete lack of constructors for any of your classes.
